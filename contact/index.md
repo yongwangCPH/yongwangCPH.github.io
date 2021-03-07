@@ -11,13 +11,6 @@ group: contact
 
 <div class="col-md-4">
 
-  <h4>Lab Area </h4>
-  tel: 415 502 3488
-
-</div>
-
-<div class="col-md-4">
-
   <h4>Yong Wang, Ph.D.</h4>
   (Tenure-track) Associate Professor  <br>
   College of Life Sciences   <br>
