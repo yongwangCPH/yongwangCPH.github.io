@@ -13,19 +13,3 @@ Appointments:
 * Associate Director and Member, [Quantitative Biosciences Institute, University of California San Francisco](http://qbi.ucsf.edu/)
 * Associate Director, [Biophysics Graduate Program, University of California San Francisco](https://biophysics.ucsf.edu/)
 * Board Member and Vice President, [ASAPbio](https://asapbio.org/)
-
-Equity:
-* [Relay Therapeutics](https://relaytx.com/)
-* Keyhole Therapeutics (co-founder)
-* [Impossible Foods](https://impossiblefoods.com/) (through spouse)
-
-Consulting/speaker fees/travel within last 2 years:
-* [Relay Therapeutics](https://relaytx.com/)
-* [MoMa Therapeutics](https://momatx.com/)
-* [Novartis](https://www.novartis.com/)
-* [Olema Oncology](https://olema.com/)
-* Past: Genentech, Revolution Medicines, Third Rock Ventures, GSK, Schrodinger, CCG, OpenEye, Roche, AstraZeneca
-
-Sponsored and Collaborative Research:
-* [Relay Therapeutics](https://relaytx.com/)
-* [Salesforce](https://www.salesforce.com/)
