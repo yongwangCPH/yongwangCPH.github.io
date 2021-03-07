@@ -14,17 +14,10 @@
   link: "/members"
   group: members
 
-- name: teaching
-  link: "/courses"
-  group: courses
-
 - name: philosophy
   link: "/compact"
   group: compact
 
-- name: news
-  link: "/news"
-  group: news
 
 - name: join
   link: "/join"
@@ -34,6 +27,3 @@
   link: "/contact"
   group: contact
 
-- name: private
-  link: "https://sites.google.com/fraserlab.com/fraserlab-private/"
-  group: private
