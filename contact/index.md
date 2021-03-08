@@ -6,6 +6,7 @@ group: contact
 
 # Contact the Wang Lab
 
+![image](/satic/img/yonghead2.jpeg)
 
 <div class="row">
 
