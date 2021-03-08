@@ -1,6 +1,6 @@
 ---
 title: Wang Lab Members
-layout: default
+layout: members
 group: members
 ---
 
