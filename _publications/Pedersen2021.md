@@ -5,8 +5,6 @@ date: '2021-01-22'
 image: '/static/img/Dennis2021.jpeg'
 biorxiv: '2020.06.12.147033'
 pdf: 'https://yongwangcph.github.io/files/Pedersen2021.pdf'
-zenodo: 
-- code: '4148789'
 description: "test"
 links:
 - name: DOI
