@@ -26,11 +26,11 @@ The long-term goals of our research are to understand how protein conformational
 <div class="col-md-7 order-md-2">
 
 
-We are intrigued by the similarities in genetic epistasis and thermodynamic measurements and are applying these insights to large-scale studies of point mutants and posttranslational modifications. We attempt to connect the response to genetic (mutation), chemical (ligands), and physical (temperature) in experiments to define the basis of allosteric regulation and function. We like to bring an evolutionary biology perspective to the table to understand the relative importance of these different perturbations in shaping the proteins we see today.
+Integrative structural biology
 </div>
 
 <div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2020_gordon_jang_bouhaddou_xu_obernier_white_omeara_rezelj.png" alt="hairball">
+<img class="img-fluid" src="/static/img/ISB.png" alt="hairball">
 </div>
 </div>
 <div class="row">
