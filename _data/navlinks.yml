@@ -14,16 +14,8 @@
   link: "/members"
   group: members
 
-- name: philosophy
-  link: "/compact"
-  group: compact
-
-
 - name: join
   link: "/join"
   group: join
 
-- name: contact
-  link: "/contact"
-  group: contact
 
