@@ -18,4 +18,6 @@
   link: "/join"
   group: join
 
-
+- name: others
+  link: "/courses"
+  group: courses
