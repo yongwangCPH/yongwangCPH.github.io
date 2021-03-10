@@ -30,7 +30,7 @@ Integrative structural biology
 </div>
 
 <div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/ISB.png" alt="hairball">
+<img class="img-fluid" src="/static/img/SERCA_E1_E2_small.gif" alt="hairball">
 </div>
 </div>
 <div class="row">
