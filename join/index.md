@@ -4,6 +4,9 @@ layout: default
 group: join
 ---
 
+<img class="img-fluid" src="/static/img/Frontpage_1920x400.jpg" title="This wonderful illustration was courtesy of Wei Chen" alt="Lab Group Illustration (credit Wei Chen)">
+
+
 # About Yong Wang
 
 I am currently an assitant professor (助理教授) in the department of biology at University of Copenhagen. I will start my own group as a tenure-track associate professor (浙大百人A研究员) at Zhejiang University in Hangzhou, China since June of 2021. Contact me if you are interested in working or collaborating with me.
