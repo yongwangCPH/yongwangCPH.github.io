@@ -19,5 +19,5 @@
   group: join
 
 - name: others
-  link: "/courses"
+  link: "/others"
   group: courses
