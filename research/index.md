@@ -12,7 +12,7 @@ group: research
 
 # Our research
 
-#### My work lies at the interface of chemistry, biophysics, and computer science. Here are some research themes of current interest.
+## My work lies at the interface of chemistry, biophysics, and computer science. Here are some research themes of current interest.
 
 <br>
 <br>
@@ -25,7 +25,7 @@ group: research
 
 <div class="row">
 
-### Identifying hidden alternative conformations of proteins and ligands in biophysical data
+## Identifying hidden alternative conformations of proteins and ligands in biophysical data
 
 <div class="col-md-7 order-md-1">
 
@@ -52,7 +52,7 @@ These methods development efforts are central to discovering new allosteric liga
 
 <div class="row">
 
-### Develop and apply enhanced sampling techniques to extract thermodynamic and kinetic information of biomolecular dynamics
+## Develop and apply enhanced sampling techniques to extract thermodynamic and kinetic information of biomolecular dynamics
 
 <div class="col-md-7 order-md-2">
 
@@ -72,7 +72,7 @@ Our long-term goal is to increase the information content of every X-ray diffrac
 
 <div class="row">
 
-### Integrative structual biology by combining multi-scale modeling with experimental data with the aid of enhanced sampling
+## Integrative structual biology by combining multi-scale modeling with experimental data with the aid of enhanced sampling
 
 <div class="col-md-7 order-md-1">
 
