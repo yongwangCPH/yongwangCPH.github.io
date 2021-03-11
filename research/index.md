@@ -50,7 +50,7 @@ Our long-term goal is to increase the information content of every X-ray diffrac
 </div>
 
 <div class="col-md-5 order-md-2 align-self-center ">
-<img class="img-fluid" src="/static/img/pub/2019_thompson.jpg" alt="tjump">
+<img class="img-fluid" src="/static/img/3D_matlab.png" alt="tjump">
 </div>
 
 </div>
