@@ -22,15 +22,26 @@ group: CV
 <div class="row">
   
 
-## Education
 
+Education
+======
+* B.S. in Chemistry, Jilin University (China), 2005
+* B.S. in Computer Sciences (Minor), Jilin University (China), 2005
+* M.S. in Analytical Chemistry, University of Chinese Academy of Sciences, 2012
+* Ph.D in Biology, University of Copenhagen, Denmark, 2016
 
-2023.10-2016.12 PhD student, Department of Biology, University of Copenhagen, Denmark
-<br>
+Work experience
+======
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
-2025.09-2012.07 Master student, 
-<br>
-
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
 
 <div class="row">
 
