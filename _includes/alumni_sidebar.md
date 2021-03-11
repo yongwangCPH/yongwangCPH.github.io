@@ -42,20 +42,6 @@ Subsequently: {{member.subsequent}} <br>
 {% endfor %}
 
 
-<br>
-## [SEP High School Interns](https://www.zju.edu.cn/)
-{% assign sep_sorted = (site.sep | sort: "enddate") | reverse %}
-{% for student in sep_sorted %}
-<hr>
-<div id = "{{student.name}}" style="padding-top: 60px; margin-top: -60px;">
-<p><strong>{{student.name}}</strong><br>
-{% if student.startdate %} {{student.startdate | date:"%Y"}} - {% endif %}{{student.enddate | date:"%Y"}} <br>
-{% if student.subsequent %}
-Subsequently: {{student.subsequent}}<br>
-{% endif %}
-</p>
-</div> {% endfor %}
-
 
 <br>
 ## Wang Lab Visitors
