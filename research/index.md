@@ -1,5 +1,5 @@
 ---
-title: Research in the Fraser Lab
+title: Research in the Wang Lab
 layout: default
 group: research
 ---
@@ -30,7 +30,7 @@ These methods development efforts are central to discovering new allosteric liga
 
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2017_biel.jpg" alt="qFit">
+<img class="img-fluid" src="/static/img/SERCA_E1_E2_small.gif" alt="qFit">
 <!-- <a href="http://www.ucsf.edu"><img class="inline-block navb-icon" src="/static/img/ucsf_logo_white.svg" alt="University of California, San Francisco (UCSF) logo"></a> -->
 
 </div>
