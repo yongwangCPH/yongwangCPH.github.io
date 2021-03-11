@@ -4,6 +4,8 @@ layout: default
 group: research
 ---
 
+<img class="img-fluid" src="/static/img/Frontpage_1920x400.jpg" title="This wonderful illustration was courtesy of Wei Chen" alt="Lab Group Illustration (credit Wei Chen)">
+
 <div class="row">
 
 # Our research
