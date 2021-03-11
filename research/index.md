@@ -54,7 +54,7 @@ These methods development efforts are central to discovering new allosteric liga
 
 ### Develop and apply enhanced sampling techniques to extract thermodynamic and kinetic information of biomolecular dynamics
 
-<div class="col-md-7 order-md-1">
+<div class="col-md-7 order-md-2">
 
 A major limitation of most biophysical techniques is the inability to directly reveal correlations in motions between distinct regions of macromolecules.
 We are taking advantage of the new capabilities of next-generation X-ray free electron laser (X-FEL) light sources to perform radiation damage-free imaging of proteins and to watch how protein ensembles respond when perturbed by rapid temperature jumps using the X-FEL.
@@ -62,7 +62,7 @@ At equilibrium, X-ray diffuse scattering has the potential to reveal these motio
 Our long-term goal is to increase the information content of every X-ray diffraction experiment to reveal atomic level coupling at high resolution and improved models of grouped flexibility at low resolution.
 </div>
 
-<div class="col-md-5 order-md-2 align-self-center ">
+<div class="col-md-5 order-md-1 align-self-center ">
 <img class="img-fluid" src="/static/img/3D_matlab.png" alt="tjump">
 </div>
 
