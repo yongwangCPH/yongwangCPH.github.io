@@ -21,3 +21,7 @@
 - name: Others
   link: "/others"
   group: courses
+  
+- name: News
+  link: "/news"
+  group: news
