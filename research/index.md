@@ -4,6 +4,15 @@ layout: default
 group: research
 ---
 
+<div class="row">
+
+# Our research
+
+#### We work on many different systems and proteins as we find ourselves drawn, again and again, to the tension of high resolution data in structural biology: as resolution gets better, modeling becomes easier... until the resolution gets too good... and then the ensemble begins to reveal itself and the fun challenges begin.
+<br>
+<br>
+
+</div>
 
 <div class="row">
 
