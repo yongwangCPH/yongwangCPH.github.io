@@ -7,10 +7,11 @@ group: CV
 
 Education
 ======
-* B.S. in Chemistry, Jilin University (China), 2005
-* B.S. in Computer Sciences (Minor), Jilin University (China), 2005
-* M.S. in Analytical Chemistry, University of Chinese Academy of Sciences, 2012
-* Ph.D in Biology, University of Copenhagen, Denmark, 2016
+* Ph.D in Biology, University of Copenhagen, Denmark, 2013-2016
+* M.S. in Analytical Chemistry, University of Chinese Academy of Sciences, 2009-2012
+* B.S. in Computer Sciences (Minor), Jilin University (China), 2003-2005
+* B.S. in Chemistry, Jilin University (China), 2001-2005
+
 
 Work experience
 ======
@@ -19,6 +20,7 @@ Work experience
 * 2020.02-2020.03: Visiting Researcher in [Bert de Groot lab](https://www.mpibpc.mpg.de/degroot), Max Planck Institute for Biophysical Chemistry, Göttingen, Germany
 * 2017/2018: Visiting postdoc in [Gregers Rom Andersen](http://www.bioxray.au.dk/~gra/) and [Poul Nissen lab](https://dandrite.au.dk/people/group-leaders/nissen-group/) at Aarhus University, Denmark
 * 2017.01-2020.04: Postdoc in [Kresten Lindorff-Larsen lab](https://scholar.google.com/citations?user=IQ59QNUAAAAJ&hl=en), Department of Biology, University of Copenhagen, Denmark
+* 2016.01-2016.04: Exchange PhD student in [Michele Parrinello lab](https://parrinello.ethz.ch/), ETH Zurich - Swiss Federal Institute of Technology, Switzerland
 
 
 My Bio
