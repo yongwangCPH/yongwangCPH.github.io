@@ -7,10 +7,14 @@ group: CV
 <div class="row">
   
 ## ACADEMIC EXPERIENCE
-2021.06-     (Tenure-track) Associate professor, Zhejiang University, China
+2021.06-2027.06     (Tenure-track) Associate professor, Zhejiang University, China 
+<br>
 2020.05-2021.05 Assistant Professor, Department of Biology, University of Copenhagen, Denmark
+<br>
 2020.02-2020.03 Visiting Researcher in Max Planck Institute for Biophysical Chemistry, Göttingen, Germany
+<br>
 2017/2018 Visiting postdoc in [Gregers Rom Andersen](http://www.bioxray.au.dk/~gra/) and [Poul Nissen lab]() at Aarhus University, Denmark
+<br>
 2017.01-2020.04 Postdoc, Department of Biology, University of Copenhagen, Denmark
 
 
