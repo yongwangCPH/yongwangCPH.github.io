@@ -11,11 +11,11 @@ group: CV
 <br>
 2020.05-2021.05 Assistant Professor, Department of Biology, University of Copenhagen, Denmark
 <br>
-2020.02-2020.03 Visiting Researcher in Max Planck Institute for Biophysical Chemistry, Göttingen, Germany
+2020.02-2020.03 Visiting Researcher in [Bert de Groot lab](https://www.mpibpc.mpg.de/degroot), Max Planck Institute for Biophysical Chemistry, Göttingen, Germany
 <br>
-2017/2018 Visiting postdoc in [Gregers Rom Andersen](http://www.bioxray.au.dk/~gra/) and [Poul Nissen lab]() at Aarhus University, Denmark
+2017/2018 Visiting postdoc in [Gregers Rom Andersen](http://www.bioxray.au.dk/~gra/) and [Poul Nissen lab](https://dandrite.au.dk/people/group-leaders/nissen-group/) at Aarhus University, Denmark
 <br>
-2017.01-2020.04 Postdoc, Department of Biology, University of Copenhagen, Denmark
+2017.01-2020.04 Postdoc in [Kresten Lindorff-Larsen lab](https://scholar.google.com/citations?user=IQ59QNUAAAAJ&hl=en), Department of Biology, University of Copenhagen, Denmark
 
 
 ---
