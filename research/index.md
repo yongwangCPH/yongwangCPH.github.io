@@ -6,6 +6,8 @@ group: research
 
 <img class="img-fluid" src="/static/img/Frontpage_1920x400.jpg" title="This wonderful illustration was courtesy of Wei Chen" alt="Lab Group Illustration (credit Wei Chen)">
 
+
+
 <div class="row">
 
 # Our research
@@ -16,6 +18,10 @@ group: research
 <br>
 
 </div>
+
+
+
+
 
 <div class="row">
 
@@ -39,6 +45,11 @@ These methods development efforts are central to discovering new allosteric liga
 </div>
 </div>
 
+
+
+
+
+
 <div class="row">
 
 ### Develop and apply enhanced sampling techniques to extract thermodynamic and kinetic information of biomolecular dynamics
@@ -58,4 +69,22 @@ Our long-term goal is to increase the information content of every X-ray diffrac
 </div>
 
 
+
+<div class="row">
+
+### Integrative structual biology by combining multi-scale modeling with experimental data with the aid of enhanced sampling
+
+<div class="col-md-7 order-md-1">
+
+A major limitation of most biophysical techniques is the inability to directly reveal correlations in motions between distinct regions of macromolecules.
+We are taking advantage of the new capabilities of next-generation X-ray free electron laser (X-FEL) light sources to perform radiation damage-free imaging of proteins and to watch how protein ensembles respond when perturbed by rapid temperature jumps using the X-FEL.
+At equilibrium, X-ray diffuse scattering has the potential to reveal these motions; however, we currently lack the ability to collect, integrate, and refine diffuse scattering data.
+Our long-term goal is to increase the information content of every X-ray diffraction experiment to reveal atomic level coupling at high resolution and improved models of grouped flexibility at low resolution.
+</div>
+
+<div class="col-md-5 order-md-2 align-self-center ">
+<img class="img-fluid" src="/static/img/Cell_cover_print.jpg" alt="tjump">
+</div>
+
+</div>
 
