@@ -16,7 +16,7 @@
 
 - name: RÉSUMÉ
   link: "/CV"
-  group: join
+  group: CV
 
 - name: Others
   link: "/others"
