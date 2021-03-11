@@ -14,8 +14,8 @@
   link: "/members"
   group: members
 
-- name: CV
-  link: "/join"
+- name: RÉSUMÉ
+  link: "/CV"
   group: join
 
 - name: Others
