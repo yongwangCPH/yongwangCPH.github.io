@@ -17,7 +17,7 @@ Group leader
 
 <div class="row">
 
-### My Bio
+## My Bio
 
 <div class="col-md-7 order-md-1">
 
