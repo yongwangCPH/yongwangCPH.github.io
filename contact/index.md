@@ -6,7 +6,6 @@ group: contact
 
 # Contact the Wang Lab
 
-![image](/static/img/yonghead2.jpeg)
 
 <div class="row">
 
