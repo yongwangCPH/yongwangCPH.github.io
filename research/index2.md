@@ -18,10 +18,8 @@ group: research
 
 </div>
 
+
 <div class="row">
-
-
-
 
 ### Multi-scale modeling
 <br>
@@ -35,8 +33,8 @@ Using a combination of theory and computer simulation, we work to uncover the mo
 <img class="img-fluid" src="/static/img/SERCA_E1_E2_small.gif" alt="hairball">
 </div>
 </div>
+
 <div class="row">
-  
   
 ### Enhanced sampling methods
 <br>
@@ -48,6 +46,8 @@ We study proteins as conformational ensembles. Although X-ray crystallography is
 <img class="img-fluid" src="/static/img/3D_matlab.png" alt="hairball">
 </div>
 </div>
+
+
 <div class="row">
   
 ### Integrative structural biology
