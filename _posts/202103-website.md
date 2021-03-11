@@ -5,4 +5,4 @@ layout: post
 group: blog
 ---
 
-I built my own website by taking [James Fraser's webpage](https://fraserlab.com/) as the template. The source code is available[https://github.com/fraser-lab/fraser-lab.github.io].
+I built my own website by taking [James Fraser's webpage](https://fraserlab.com/) as the template. The source code is available in [Github](https://github.com/fraser-lab/fraser-lab.github.io).
