@@ -1,7 +1,7 @@
 ---
-title: Join the Wang Lab
+title: RÉSUMÉ
 layout: default
-group: join
+group: CV
 ---
 
 <img class="img-fluid" src="/static/img/Frontpage_1920x400.jpg" title="This wonderful illustration was courtesy of Wei Chen" alt="Lab Group Illustration (credit Wei Chen)">
@@ -19,14 +19,4 @@ Group leader
 2021-     (Tenure-track) Associate professor, , Zhejiang University, China
 2017.01-2020.04 Postdoc, 
 
-# Join the Wang Lab
 
-##### See more about [our lab compact and philosophy.](/compact/)
-
-Our lab doesn’t generally post for specific positions, so please reach out! We are interested in engaging you in a conversation about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across a wide range of computational and experimental techniques.
-<br/>
-
-
-## Postdoctoral Fellows
-
-Inquiries about Postdoctoral positions should be emailed directly to Yong Wang. Candidates will be encouraged to explore applying for extramural fellowships to support their research.
