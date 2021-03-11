@@ -41,7 +41,7 @@ These methods development efforts are central to discovering new allosteric liga
 
 <div class="row">
 
-### Enhanced sampling
+### Develop and apply enhanced sampling techniques to extract thermodynamic and kinetic information of biomolecular dynamics
 
 <div class="col-md-7 order-md-1">
 
