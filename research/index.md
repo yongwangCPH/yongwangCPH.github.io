@@ -83,7 +83,7 @@ Our long-term goal is to increase the information content of every X-ray diffrac
 </div>
 
 <div class="col-md-5 order-md-2 align-self-center ">
-<img class="img-fluid" src="/static/img/Cell_cover_print.jpg" alt="tjump">
+<img class="img-fluid" src="/static/img/Tshirt_2000x2000.jpg" alt="tjump">
 </div>
 
 </div>
