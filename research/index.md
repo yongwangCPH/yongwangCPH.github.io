@@ -10,9 +10,9 @@ group: research
 <div class="row">
 
 # Our research
-The long-term goals of our research are to understand how protein conformational ensembles are reshaped by chemical, genetic, and physical perturbations. ...
 
-#### We work on many different systems and proteins as we find ourselves drawn, again and again, to the tension of high resolution data in structural biology: as resolution gets better, modeling becomes easier... until the resolution gets too good... and then the ensemble begins to reveal itself and the fun challenges begin.
+#### My work lies at the interface of chemistry, biophysics, and computer science. Here are some research themes of current interest.
+
 <br>
 <br>
 
