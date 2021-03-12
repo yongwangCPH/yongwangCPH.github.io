@@ -8,9 +8,13 @@ group: CV
 Education
 ======
 * Ph.D in Biology, University of Copenhagen, Denmark, 2013-2016
+  * Supervisor: Kresten Lindorff-Larsen
   * PhD Thesis: [Hybrid Methods and Atomistic Models to Explore Free Energies, Rates and Pathways of Protein Shape Changes](http://www2.bio.ku.dk/bibliotek/abstract.asp?ID=399)
   * (Committee: Birthe B. Kragelund, Robert B. Best, Birgit Schiøtt)
 * M.S. in Analytical Chemistry, University of Chinese Academy of Sciences, 2009-2012
+  * Supervisor: Prof. Jin Wang (SUNY at Stony Brook)
+  * Co-supervisor: Prof. Erkang Wang (CAS Academician, TWAS Academician)
+  * Thesis: Explore the Large-scale Conformational Dynamics of Protein Under the Energy Landscape Framework
 * B.S. in Computer Sciences (Minor), Jilin University (China), 2003-2005
 * B.S. in Chemistry, Jilin University (China), 2001-2005
 
