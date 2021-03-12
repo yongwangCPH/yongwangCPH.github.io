@@ -12,3 +12,5 @@ group: courses
 # Visulization tools:
 * [MolStar](https://molstar.org/) 
   * The Mol* toolkit provides a comprehensive solution for molecular data delivery, visualization and analysis that can be embedded into a wide range of 3rd party solutions. It includes a customizable plugin for high quality WebGL based molecular data visualization, as well as servers for model and experimental (X-ray, Cryo-EM, etc.) data delivery, efficient BinaryCIF data format support, and other exciting features.
+* [Protein Imager](https://3dproteinimaging.com/protein-imager/)
+  * Gianluca Tomasello is the founder of the online protein visualization tool Protein Imager.
