@@ -1,5 +1,5 @@
 ---
-title: RÉSUMÉ
+title: Résumé
 layout: default
 group: CV
 ---
@@ -8,6 +8,8 @@ group: CV
 Education
 ======
 * Ph.D in Biology, University of Copenhagen, Denmark, 2013-2016
+** PhD Thesis: [Hybrid Methods and Atomistic Models to Explore Free Energies, Rates and Pathways of Protein Shape Changes](http://www2.bio.ku.dk/bibliotek/abstract.asp?ID=399)
+** (Committee: Birthe B. Kragelund, Robert B. Best, Birgit Schiøtt)
 * M.S. in Analytical Chemistry, University of Chinese Academy of Sciences, 2009-2012
 * B.S. in Computer Sciences (Minor), Jilin University (China), 2003-2005
 * B.S. in Chemistry, Jilin University (China), 2001-2005
@@ -21,6 +23,8 @@ Academic Experience
 * 2017/2018: Visiting postdoc in [Gregers Rom Andersen](http://www.bioxray.au.dk/~gra/) and [Poul Nissen lab](https://dandrite.au.dk/people/group-leaders/nissen-group/) at Aarhus University, Denmark
 * 2017.01-2020.04: Postdoc in [Kresten Lindorff-Larsen lab](https://scholar.google.com/citations?user=IQ59QNUAAAAJ&hl=en), Department of Biology, University of Copenhagen, Denmark
 * 2016.01-2016.04: Exchange PhD student in [Michele Parrinello lab](https://parrinello.ethz.ch/), ETH Zurich - Swiss Federal Institute of Technology, Switzerland
+* 2009-2013: Research Associate, Chinese Academy of Sciences
+* 2005-2009: Research Fellow, Chinese Academy of Sciences
 
 
 My Bio
