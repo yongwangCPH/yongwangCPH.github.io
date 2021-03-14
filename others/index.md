@@ -17,4 +17,7 @@ group: courses
 * [qutemol](http://qutemol.sourceforge.net/)
   * QuteMol is an open source (GPL), interactive, high quality molecular visualization system. QuteMol exploits the current GPU capabilites through OpenGL shaders to offers an array of innovative visual effects. QuteMol visualization techniques are aimed at improving clarity and an easier understanding of the 3D shape and structure of large molecules or complex proteins. **no support anymore.
 
+# Scientific websites:
+* [Welcome to the Bacterial World](https://sarahs-world.blog/)
+  *From scientific studies to vivid stories for everyone. Learn about the bacterial world with engaging article 
 
