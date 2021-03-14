@@ -19,5 +19,7 @@ group: courses
 
 # Scientific websites:
 * [Welcome to the Bacterial World](https://sarahs-world.blog/)
-  *From scientific studies to vivid stories for everyone. Learn about the bacterial world with engaging article 
+  * From scientific studies to vivid stories for everyone. Learn about the bacterial world with engaging article 
+* [Peter Nollert's weekly Membrane Protein Stories Collection](https://nuzzel.com/reducentropy)
+  * How do membrane proteins work? Enjoy protein structure/function stories, impact on drug discovery and cutting edge bio-technologies.
 
