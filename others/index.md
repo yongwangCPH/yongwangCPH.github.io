@@ -4,18 +4,24 @@ layout: default
 group: courses
 ---
 
-# Tutorials
+# Tutorials and Courses
 * [Rosetta Tutorials](http://www.meilerlab.org/index.php/rosetta-tutorials)
    * The Meiler lab holds a regular hands-on workshop.
 * [Scientific writing course](https://www.coursera.org/learn/sciwrite?authType=google&serviceCode=facebook)
    * This course teaches scientists to become more effective writers, using practical examples and exercises. Topics include: principles of good writing, tricks for writing faster and with less anxiety, the format of a scientific manuscript, peer review, grant writing, ethical issues in scientific publication, and writing for general audiences.
-
+* [Physical Biology of the Cell](http://www.rpgroup.caltech.edu/aph161/syllabus)
+   * Physical Biology of the Cell (2nd ed) by Phillips, Kondev, Theriot and Garcia (ISBN: 0815344503)
+* 
 
 # MD Analysis tools:
 * [getcontacts](https://github.com/getcontacts/getcontacts)
   * Application for efficiently computing non-covalent contact networks in molecular structures and MD simulations
 * [flareplots](https://gpcrviz.github.io/flareplot/) 
   * Flareplot is an open source library for visualizing and interactively exploring dynamically changing networks.
+* [CONAN](https://contactmaps.blogspot.com/)
+  * Understanding MD simulations through contact map analysis
+
+
 
 # Visulization tools:
 * [MolStar](https://molstar.org/) 
