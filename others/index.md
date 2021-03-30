@@ -13,6 +13,16 @@ group: courses
    * Physical Biology of the Cell (2nd ed) by Phillips, Kondev, Theriot and Garcia (ISBN: 0815344503)
 * 
 
+
+# MD Totorials
+* [Justin A. Lemkul's Gromacs Tutorial](http://www.mdtutorials.com/gmx/)
+* [Birgit Strodel's Gromacs Tutorial](http://www.strodel.info/index_files/lecture/html/tutorial.html)
+* 
+
+# Multi-scale Modeling
+* [SMOG](https://smog-server.org/)
+* [DNA Origami/Brick](https://bionano.physics.illinois.edu/dna-nanotechnology)
+
 # MD Analysis tools:
 * [getcontacts](https://github.com/getcontacts/getcontacts)
   * Application for efficiently computing non-covalent contact networks in molecular structures and MD simulations
@@ -20,7 +30,6 @@ group: courses
   * Flareplot is an open source library for visualizing and interactively exploring dynamically changing networks.
 * [CONAN](https://contactmaps.blogspot.com/)
   * Understanding MD simulations through contact map analysis
-
 
 
 # Visulization tools:
