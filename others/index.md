@@ -30,7 +30,8 @@ group: courses
   * Flareplot is an open source library for visualizing and interactively exploring dynamically changing networks.
 * [CONAN](https://contactmaps.blogspot.com/)
   * Understanding MD simulations through contact map analysis
-
+* [ZEAL](http://zeal.andrelab.org/webapps/home/session.html?app=ZEALweb)
+  * protein structure alignment based on shape similarity 
 
 # Visulization tools:
 * [MolStar](https://molstar.org/) 
