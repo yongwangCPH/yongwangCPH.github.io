@@ -40,6 +40,8 @@ group: courses
   * Gianluca Tomasello is the founder of the online protein visualization tool Protein Imager.
 * [qutemol](http://qutemol.sourceforge.net/)
   * QuteMol is an open source (GPL), interactive, high quality molecular visualization system. QuteMol exploits the current GPU capabilites through OpenGL shaders to offers an array of innovative visual effects. QuteMol visualization techniques are aimed at improving clarity and an easier understanding of the 3D shape and structure of large molecules or complex proteins. **no support anymore.
+* [Molywood](https://mmb.irbbarcelona.org/molywood/)
+  * Molywood can make super cool molecular movies for you based on VMD. 
 
 # Scientific websites:
 * [Welcome to the Bacterial World](https://sarahs-world.blog/)
