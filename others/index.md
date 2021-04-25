@@ -17,8 +17,9 @@ group: courses
 # MD Totorials
 * [Justin A. Lemkul's Gromacs Tutorial](http://www.mdtutorials.com/gmx/)
 * [Birgit Strodel's Gromacs Tutorial](http://www.strodel.info/index_files/lecture/html/tutorial.html)
-* 
-
+* [Ensembler](https://github.com/rinikerlab/Ensembler)
+  * A Simple Package for Fast Prototyping and Teaching Molecular Simulations
+  
 # Multi-scale Modeling
 * [SMOG](https://smog-server.org/)
 * [DNA Origami/Brick](https://bionano.physics.illinois.edu/dna-nanotechnology)
