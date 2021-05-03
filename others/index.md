@@ -33,6 +33,9 @@ group: courses
   * Understanding MD simulations through contact map analysis
 * [ZEAL](http://zeal.andrelab.org/webapps/home/session.html?app=ZEALweb)
   * protein structure alignment based on shape similarity 
+* [g_elpot](https://jugit.fz-juelich.de/computational-neurophysiology/g_elpot)
+  * g_elpot: a tool for quantifying biomolecular electrostatics from molecular dynamics trajectories
+ 
 
 # Visulization tools:
 * [MolStar](https://molstar.org/) 
