@@ -54,4 +54,7 @@ group: courses
   * From scientific studies to vivid stories for everyone. Learn about the bacterial world with engaging article 
 * [Peter Nollert's weekly Membrane Protein Stories Collection](https://nuzzel.com/reducentropy)
   * How do membrane proteins work? Enjoy protein structure/function stories, impact on drug discovery and cutting edge bio-technologies.
+* [The Atlas of Bacterial & Archaeal Cell Structure](https://www.cellstructureatlas.org/index.html)
+  * This open access digital textbook offers a tour of microbial cells guided by cutting-edge 3D electron microscopy. By Catherine M. Oikonomou & Grant J. Jensen  
+
 
