@@ -35,6 +35,8 @@ group: courses
   * protein structure alignment based on shape similarity 
 * [g_elpot](https://jugit.fz-juelich.de/computational-neurophysiology/g_elpot)
   * g_elpot: a tool for quantifying biomolecular electrostatics from molecular dynamics trajectories
+* lipyphilic(https://lipyphilic.readthedocs.io/en/latest/index.html)
+  * lipyphilic is a set of tools for analysing MD simulations of lipid bilayers built directly on top of MDAnalysis.
  
 
 # Visulization tools:
