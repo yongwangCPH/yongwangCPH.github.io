@@ -24,7 +24,7 @@ group: courses
 * [SMOG](https://smog-server.org/)
 * [DNA Origami/Brick](https://bionano.physics.illinois.edu/dna-nanotechnology)
 
-# MD Analysis tools:
+# MD Preparation/Analysis tools:
 * [getcontacts](https://github.com/getcontacts/getcontacts)
   * Application for efficiently computing non-covalent contact networks in molecular structures and MD simulations
 * [flareplots](https://gpcrviz.github.io/flareplot/) 
@@ -35,8 +35,10 @@ group: courses
   * protein structure alignment based on shape similarity 
 * [g_elpot](https://jugit.fz-juelich.de/computational-neurophysiology/g_elpot)
   * g_elpot: a tool for quantifying biomolecular electrostatics from molecular dynamics trajectories
-* lipyphilic(https://lipyphilic.readthedocs.io/en/latest/index.html)
+* [lipyphilic](https://lipyphilic.readthedocs.io/en/latest/index.html)
   * lipyphilic is a set of tools for analysing MD simulations of lipid bilayers built directly on top of MDAnalysis.
+* [BFEE2](https://github.com/fhh2626/BFEE2)
+  * Binding free energy estimator (BFEE) is a python-based software that automates absolute binding free energy calculations through either the alchemical or geometric route by molecular dynamics simulations. 
  
 
 # Visulization tools:
